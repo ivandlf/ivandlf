@@ -1,4 +1,6 @@
-Hola, soy ivan y estoy estudiando y aprendiendo programacion
+Hola, soy ivan 👋
+y estoy estudiando y aprendiendo programacion 💻
+Me gusta hacer musica 🎶 dibujar 🎨 y jugar videojuegos 🎮
 Este es mi repositorio,
 Bienvenidos!
 <!---
