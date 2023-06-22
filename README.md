@@ -49,7 +49,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ivandlf/ivandlf/output/snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ivandlf/ivandlf/output/snake.svg" alt="Snake animation" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
