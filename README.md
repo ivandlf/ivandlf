@@ -47,11 +47,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ivandlf/ivandlf/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
