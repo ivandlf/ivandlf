@@ -65,13 +65,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ivandlf/ivandlf/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
 </picture>
+
 
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
