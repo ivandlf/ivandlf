@@ -66,10 +66,10 @@
 <br clear="both">
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ivandlf/ivandlf/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ivandlf/ivandlf/raw/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/ivandlf/ivandlf/raw/output/github-contribution-grid-snake.svg" />
+<picture align="center">
+  <source align="center" media="(prefers-color-scheme: dark)" srcset="https://github.com/ivandlf/ivandlf/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source align="center" media="(prefers-color-scheme: light)" srcset="https://github.com/ivandlf/ivandlf/raw/output/github-contribution-grid-snake.svg" />
+  <img align="center" alt="github-snake" src="https://github.com/ivandlf/ivandlf/raw/output/github-contribution-grid-snake.svg" />
 </picture>
 
 
